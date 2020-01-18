@@ -1,0 +1,11 @@
+..\..\output\mqttdeserializepublish.o: ..\..\User\MQTTPacket\src\MQTTDeserializePublish.c
+..\..\output\mqttdeserializepublish.o: ..\..\User\MQTTPacket\src\StackTrace.h
+..\..\output\mqttdeserializepublish.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\..\output\mqttdeserializepublish.o: ..\..\User\MQTTPacket\src\MQTTPacket.h
+..\..\output\mqttdeserializepublish.o: ..\..\User\MQTTPacket\src\MQTTConnect.h
+..\..\output\mqttdeserializepublish.o: ..\..\User\MQTTPacket\src\MQTTPublish.h
+..\..\output\mqttdeserializepublish.o: ..\..\User\MQTTPacket\src\MQTTSubscribe.h
+..\..\output\mqttdeserializepublish.o: ..\..\User\MQTTPacket\src\MQTTUnsubscribe.h
+..\..\output\mqttdeserializepublish.o: ..\..\User\MQTTPacket\src\MQTTFormat.h
+..\..\output\mqttdeserializepublish.o: ..\..\User\MQTTPacket\src\MQTTPacket.h
+..\..\output\mqttdeserializepublish.o: G:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
